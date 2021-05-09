@@ -3,15 +3,18 @@ Painel de LEDs UV para auxiliar na confecção de Placas de Circuito Impresso (p
 
 Características:
 
-*PCI com 200x200(mm);
+-PCI com 200x200(mm);
 
-*36 Leds UV 3,3V 40mA (separados em 25mm entre si);
+-36 Leds UV 3,3V 40mA (separados em 25mm entre si);
 
 -12 resistores de 56ohms 1/8W (compatibilidade com 1/4W);
 
-*Alimentação em 12V em uma das opções: Conectores "JST macho" ou "Borner com parafuso";
-*Consumo total previsto em 1.44A;
-*4 vias passantes para fixação.
+-Alimentação em 12V em uma das opções: Conectores "JST macho" ou "Borner com parafuso";
+
+-Consumo total previsto em 1.44A;
+
+-4 vias passantes para fixação.
+
 
 ![image](https://user-images.githubusercontent.com/17707442/117223046-34cd8e00-ade3-11eb-916b-759657e6ae5a.png)
 
