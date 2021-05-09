@@ -2,9 +2,13 @@
 Painel de LEDs UV para auxiliar na confecção de Placas de Circuito Impresso (processo fotorresistente) e cura da tinta protetora/isolante.
 
 Características:
+
 *PCI com 200x200(mm);
+
 *36 Leds UV 3,3V 40mA (separados em 25mm entre si);
-*12 resistores de 56ohms 1/8W (compatibilidade com 1/4W);
+
+-12 resistores de 56ohms 1/8W (compatibilidade com 1/4W);
+
 *Alimentação em 12V em uma das opções: Conectores "JST macho" ou "Borner com parafuso";
 *Consumo total previsto em 1.44A;
 *4 vias passantes para fixação.
